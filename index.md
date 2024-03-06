@@ -1,1 +1,1 @@
-# [HACK THE BOX](../Hack the box/README.md)
+# [HACK THE BOX](./Hack The Box/README.md)
