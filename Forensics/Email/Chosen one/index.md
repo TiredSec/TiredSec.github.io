@@ -1,6 +1,6 @@
 # yOu hAvE bEeN cHoSeN
 
-[Chosen one](/Assets/you have been chosen.png "chosen")
+![Chosen one](./Assets/you-have-been-chosen.PNG "chosen")
 
 <p>One day a couple years ago i had revcieved an email claiming "<strong>i hAd bEeN cHoSeN</strong>", it was immediately clear that this was some sort of scam as:<br>
 A) i have never been chosen for anything<br>
