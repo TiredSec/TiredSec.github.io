@@ -13,5 +13,6 @@ B) theres no Dicks sporting goods where i live.</p>
 3) The MTA locates the the recipient's advertised mail server and sends it along<br>
 
 we can look at the path that the email went through by looking at the <strong>Received</strong> entries
+![received](./Assets/received.PNG "received")
 
 </p>
