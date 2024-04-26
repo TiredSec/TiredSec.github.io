@@ -17,8 +17,12 @@ we can look at the path that the email went through by looking at the <strong>Re
 
 What i have found from my own testing is that NAM11-BN8-obe.outbound.protection.outlook.com or rather *.outbound.protection.outlook.com could be the result from the use of email alias in outlook.com, further more there is the case of the missing return-path which i am currently still investiagating and have no answers as of yet.<br>
 
+![header](./Assets/header.PNG "header")<br>
+
 The absence of X-Mailer header indicates that the email was probably crafterd via a web-based client instead of locally
 
 
 
 </p>
+
+## SPF, DKIM and DMARC
