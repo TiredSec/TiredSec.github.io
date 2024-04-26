@@ -1,0 +1,1 @@
+assets for email analysis
